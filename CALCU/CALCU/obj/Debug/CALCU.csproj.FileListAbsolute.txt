@@ -1,0 +1,15 @@
+C:\Users\Vinay Jango\Desktop\CALCU\CALCU\obj\Debug\CALCU.csproj.AssemblyReference.cache
+C:\Users\Vinay Jango\Desktop\CALCU\CALCU\obj\Debug\CALCU.csproj.SuggestedBindingRedirects.cache
+C:\Users\Vinay Jango\Desktop\CALCU\CALCU\obj\Debug\CALCU.CALCU_1.resources
+C:\Users\Vinay Jango\Desktop\CALCU\CALCU\obj\Debug\CALCU.Properties.Resources.resources
+C:\Users\Vinay Jango\Desktop\CALCU\CALCU\obj\Debug\CALCU.csproj.GenerateResource.cache
+C:\Users\Vinay Jango\Desktop\CALCU\CALCU\obj\Debug\CALCU.csproj.CoreCompileInputs.cache
+C:\Users\Vinay Jango\Desktop\CALCU\CALCU\bin\Debug\CALCU.exe.config
+C:\Users\Vinay Jango\Desktop\CALCU\CALCU\bin\Debug\CALCU.exe.manifest
+C:\Users\Vinay Jango\Desktop\CALCU\CALCU\bin\Debug\CALCU.application
+C:\Users\Vinay Jango\Desktop\CALCU\CALCU\bin\Debug\CALCU.exe
+C:\Users\Vinay Jango\Desktop\CALCU\CALCU\bin\Debug\CALCU.pdb
+C:\Users\Vinay Jango\Desktop\CALCU\CALCU\obj\Debug\CALCU.exe.manifest
+C:\Users\Vinay Jango\Desktop\CALCU\CALCU\obj\Debug\CALCU.application
+C:\Users\Vinay Jango\Desktop\CALCU\CALCU\obj\Debug\CALCU.exe
+C:\Users\Vinay Jango\Desktop\CALCU\CALCU\obj\Debug\CALCU.pdb
